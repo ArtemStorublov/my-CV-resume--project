@@ -1,7 +1,7 @@
 body {
   background: #f6f6fa;
   padding: 40px 40px 40px 40px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 ul,
 ol {
@@ -19,12 +19,18 @@ ol {
 /* main-content */
 .main-content {
   padding-left: 88px;
-  padding-top: 80px;
+  padding-top: 20px;
   padding-right: 40px;
   padding-bottom: 80px;
   box-sizing: border-box;
 }
-
+.date-update {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+  text-align: right;
+}
 /* sidebar */
 
 .sidebar {
@@ -220,7 +226,7 @@ ol {
   margin-bottom: 0px;
 }
 .education-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 22px;
   color: #000;
@@ -229,21 +235,21 @@ ol {
 }
 
 .education-institution {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 16px;
   color: #6d9bf5;
   margin-bottom: 8px;
 }
 .education-specialty {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: #000;
   margin-bottom: 8px;
 }
 .education-period {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 12px;
   color: #a8a8a8;
